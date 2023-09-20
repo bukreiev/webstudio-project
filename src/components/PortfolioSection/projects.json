@@ -1,0 +1,83 @@
+[
+  {
+    "id": "1",
+    "src": "src/assets/project1.jpg",
+    "src2x": "src/assets/project1@2x.jpg",
+    "alt": "project",
+    "description": "Technocrack is a modern distribution platform coronavirus. Companies use this platform for digital espionage and attacks on the protected servers of competitors.",
+    "title": "Technocrack",
+    "type": "Web site"
+  },
+  {
+    "id": "2",
+    "src": "src/assets/project2.jpg",
+    "src2x": "src/assets/project2@2x.jpg",
+    "alt": "project",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Impedit, neque quasi tempore placeat veritatis fugiat. Inventore consequatur deleniti veniam sunt!",
+    "title": "New Orlean vs Golden Star",
+    "type": "Design"
+  },
+  {
+    "id": "3",
+    "src": "src/assets/project3.jpg",
+    "src2x": "src/assets/project3@2x.jpg",
+    "alt": "project",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Impedit, neque quasi tempore placeat veritatis fugiat. Inventore consequatur deleniti veniam sunt!",
+    "title": "Seafood",
+    "type": "Application"
+  },
+  {
+    "id": "4",
+    "src": "src/assets/project4.jpg",
+    "src2x": "src/assets/project4@2x.jpg",
+    "alt": "project",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Impedit, neque quasi tempore placeat veritatis fugiat. Inventore consequatur deleniti veniam sunt!",
+    "title": "Prime",
+    "type": "Marketing"
+  },
+  {
+    "id": "5",
+    "src": "src/assets/project5.jpg",
+    "src2x": "src/assets/project5@2x.jpg",
+    "alt": "project",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Impedit, neque quasi tempore placeat veritatis fugiat. Inventore consequatur deleniti veniam sunt!",
+    "title": "Boxes",
+    "type": "Application"
+  },
+  {
+    "id": "6",
+    "src": "src/assets/project6.jpg",
+    "src2x": "src/assets/project6@2x.jpg",
+    "alt": "project",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Impedit, neque quasi tempore placeat veritatis fugiat. Inventore consequatur deleniti veniam sunt!",
+    "title": "Inspiration has no Borders",
+    "type": "Web site"
+  },
+  {
+    "id": "7",
+    "src": "src/assets/project7.jpg",
+    "src2x": "src/assets/project7@2x.jpg",
+    "alt": "project",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Impedit, neque quasi tempore placeat veritatis fugiat. Inventore consequatur deleniti veniam sunt!",
+    "title": "Limited Edition",
+    "type": "Design"
+  },
+  {
+    "id": "8",
+    "src": "src/assets/project8.jpg",
+    "src2x": "src/assets/project8@2x.jpg",
+    "alt": "project",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Impedit, neque quasi tempore placeat veritatis fugiat. Inventore consequatur deleniti veniam sunt!",
+    "title": "Project LAB",
+    "type": "Marketing"
+  },
+  {
+    "id": "9",
+    "src": "src/assets/project9.jpg",
+    "src2x": "src/assets/project9@2x.jpg",
+    "alt": "project",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Impedit, neque quasi tempore placeat veritatis fugiat. Inventore consequatur deleniti veniam sunt!",
+    "title": "Growing Business",
+    "type": "Application"
+  }
+]
