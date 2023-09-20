@@ -58,7 +58,7 @@ export default function SharedLayout() {
                   <Link href="/">Home</Link>
                 </li>
                 <li>
-                  <Link href="/portfolio">Portfolio</Link>
+                  <Link href="/webstudio-project/portfolio">Portfolio</Link>
                 </li>
                 <li>
                   <Link href="#contacts">Contacts</Link>
