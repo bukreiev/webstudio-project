@@ -1,4 +1,4 @@
-import{s,j as e,g as y}from"./index-b98a1e8a.js";const w=s.ul`
+import{s,j as e,g as y}from"./index-605969ab.js";const w=s.ul`
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
