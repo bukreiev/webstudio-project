@@ -4,6 +4,7 @@ import { FiMail, FiMenu } from 'react-icons/fi';
 import { PiDeviceMobileBold } from 'react-icons/pi';
 import { BsSend } from 'react-icons/bs';
 import { GrClose } from 'react-icons/gr';
+import { NavLink } from 'react-router-dom';
 
 // HEADER SECTION
 
@@ -170,7 +171,30 @@ export const List = styled.ul`
   }
 `;
 
-export const Link = styled.a`
+export const Link = styled(NavLink)`
+  color: #212121;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 1.14em;
+  text-align: left;
+  letter-spacing: 0.02em;
+
+  text-decoration: none;
+  transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+
+  &:hover,
+  &:focus {
+    color: #2196f3;
+  }
+
+  @media screen and (min-width: 768px) {
+    padding: 32px 0;
+    font-size: 14px;
+  }
+  cursor: pointer;
+`;
+
+export const Anchor = styled.a`
   color: #212121;
   font-weight: 500;
   font-size: 22px;

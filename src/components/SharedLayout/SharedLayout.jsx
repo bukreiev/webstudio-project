@@ -8,6 +8,7 @@ import {
   List,
   ContactList,
   Link,
+  Anchor,
   ContactLink,
   MailIcon,
   PhoneIcon,
@@ -55,13 +56,13 @@ export default function SharedLayout() {
             <nav>
               <List>
                 <li>
-                  <Link href="/">Home</Link>
+                  <Link to="/">Home</Link>
                 </li>
                 <li>
-                  <Link href="/webstudio-project/portfolio">Portfolio</Link>
+                  <Link to="/portfolio">Portfolio</Link>
                 </li>
                 <li>
-                  <Link href="#contacts">Contacts</Link>
+                  <Anchor href="#contacts">Contacts</Anchor>
                 </li>
               </List>
             </nav>
