@@ -56,7 +56,9 @@ export default function SharedLayout() {
             <nav>
               <List>
                 <li>
-                  <Link to="/">Home</Link>
+                  <Link to="/" end>
+                    Home
+                  </Link>
                 </li>
                 <li>
                   <Link to="/portfolio">Portfolio</Link>
