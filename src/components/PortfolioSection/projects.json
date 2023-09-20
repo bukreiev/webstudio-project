@@ -1,8 +1,8 @@
 [
   {
     "id": "1",
-    "src": "/webstudio-project/assets/project1.jpg",
-    "src2x": "/webstudio-project/assets/project1@2x.jpg",
+    "src": "/webstudio-project/src/assets/project1.jpg",
+    "src2x": "/webstudio-project/src/assets/project1@2x.jpg",
     "alt": "project",
     "description": "Technocrack is a modern distribution platform coronavirus. Companies use this platform for digital espionage and attacks on the protected servers of competitors.",
     "title": "Technocrack",
@@ -10,8 +10,8 @@
   },
   {
     "id": "2",
-    "src": "/webstudio-project/assets/project2.jpg",
-    "src2x": "/webstudio-project/assets/project2@2x.jpg",
+    "src": "/webstudio-project/src/assets/project2.jpg",
+    "src2x": "/webstudio-project/src/assets/project2@2x.jpg",
     "alt": "project",
     "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Impedit, neque quasi tempore placeat veritatis fugiat. Inventore consequatur deleniti veniam sunt!",
     "title": "New Orlean vs Golden Star",
@@ -19,8 +19,8 @@
   },
   {
     "id": "3",
-    "src": "/webstudio-project/assets/project3.jpg",
-    "src2x": "/webstudio-project/assets/project3@2x.jpg",
+    "src": "/webstudio-project/src/assets/project3.jpg",
+    "src2x": "/webstudio-project/src/assets/project3@2x.jpg",
     "alt": "project",
     "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Impedit, neque quasi tempore placeat veritatis fugiat. Inventore consequatur deleniti veniam sunt!",
     "title": "Seafood",
@@ -28,8 +28,8 @@
   },
   {
     "id": "4",
-    "src": "/webstudio-project/assets/project4.jpg",
-    "src2x": "/webstudio-project/assets/project4@2x.jpg",
+    "src": "/webstudio-project/src/assets/project4.jpg",
+    "src2x": "/webstudio-project/src/assets/project4@2x.jpg",
     "alt": "project",
     "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Impedit, neque quasi tempore placeat veritatis fugiat. Inventore consequatur deleniti veniam sunt!",
     "title": "Prime",
@@ -37,8 +37,8 @@
   },
   {
     "id": "5",
-    "src": "/webstudio-project/assets/project5.jpg",
-    "src2x": "/webstudio-project/assets/project5@2x.jpg",
+    "src": "/webstudio-project/src/assets/project5.jpg",
+    "src2x": "/webstudio-project/src/assets/project5@2x.jpg",
     "alt": "project",
     "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Impedit, neque quasi tempore placeat veritatis fugiat. Inventore consequatur deleniti veniam sunt!",
     "title": "Boxes",
@@ -46,8 +46,8 @@
   },
   {
     "id": "6",
-    "src": "/webstudio-project/assets/project6.jpg",
-    "src2x": "/webstudio-project/assets/project6@2x.jpg",
+    "src": "/webstudio-project/src/assets/project6.jpg",
+    "src2x": "/webstudio-project/src/assets/project6@2x.jpg",
     "alt": "project",
     "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Impedit, neque quasi tempore placeat veritatis fugiat. Inventore consequatur deleniti veniam sunt!",
     "title": "Inspiration has no Borders",
@@ -55,8 +55,8 @@
   },
   {
     "id": "7",
-    "src": "/webstudio-project/assets/project7.jpg",
-    "src2x": "/webstudio-project/assets/project7@2x.jpg",
+    "src": "/webstudio-project/src/assets/project7.jpg",
+    "src2x": "/webstudio-project/src/assets/project7@2x.jpg",
     "alt": "project",
     "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Impedit, neque quasi tempore placeat veritatis fugiat. Inventore consequatur deleniti veniam sunt!",
     "title": "Limited Edition",
@@ -64,8 +64,8 @@
   },
   {
     "id": "8",
-    "src": "/webstudio-project/assets/project8.jpg",
-    "src2x": "/webstudio-project/assets/project8@2x.jpg",
+    "src": "/webstudio-project/src/assets/project8.jpg",
+    "src2x": "/webstudio-project/src/assets/project8@2x.jpg",
     "alt": "project",
     "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Impedit, neque quasi tempore placeat veritatis fugiat. Inventore consequatur deleniti veniam sunt!",
     "title": "Project LAB",
@@ -73,8 +73,8 @@
   },
   {
     "id": "9",
-    "src": "/webstudio-project/assets/project9.jpg",
-    "src2x": "/webstudio-project/assets/project9@2x.jpg",
+    "src": "/webstudio-project/src/assets/project9.jpg",
+    "src2x": "/webstudio-project/src/assets/project9@2x.jpg",
     "alt": "project",
     "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Impedit, neque quasi tempore placeat veritatis fugiat. Inventore consequatur deleniti veniam sunt!",
     "title": "Growing Business",
