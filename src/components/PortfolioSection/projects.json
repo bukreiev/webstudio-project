@@ -1,8 +1,8 @@
 [
   {
     "id": "1",
-    "src": "https://drive.google.com/file/d/1NGmQeWA9WsOEQMp2eFj29EB5lGuXYCmQ/view?usp=drive_link",
-    "src2x": "https://drive.google.com/file/d/1KEmpya3dLunNSbdfgwrZfU8ygxFoFCea/view?usp=drive_link",
+    "src": "/src/assets/project1.jpg",
+    "src2x": "/src/assets/project1@2x.jpg",
     "alt": "project",
     "description": "Technocrack is a modern distribution platform coronavirus. Companies use this platform for digital espionage and attacks on the protected servers of competitors.",
     "title": "Technocrack",
@@ -10,8 +10,8 @@
   },
   {
     "id": "2",
-    "src": "https://drive.google.com/file/d/1URWQLX_RRjK93saAwRHgI59Wuu192ebF/view?usp=drive_link",
-    "src2x": "https://drive.google.com/file/d/1Ut1C1Y5wrkWIrAigmB9nC9DWWnVLRAnH/view?usp=drive_link",
+    "src": "/src/assets/project2.jpg",
+    "src2x": "/src/assets/project2@2x.jpg",
     "alt": "project",
     "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Impedit, neque quasi tempore placeat veritatis fugiat. Inventore consequatur deleniti veniam sunt!",
     "title": "New Orlean vs Golden Star",
@@ -19,8 +19,8 @@
   },
   {
     "id": "3",
-    "src": "https://drive.google.com/file/d/1h3MaIWb0VQvJRvTCn_T-e369YFr7wBXc/view?usp=drive_link",
-    "src2x": "https://drive.google.com/file/d/1mHsG3RpkHBOk98HNZe44-v1l9Nr6SwN3/view?usp=drive_link",
+    "src": "/src/assets/project3.jpg",
+    "src2x": "/src/assets/project3@2x.jpg",
     "alt": "project",
     "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Impedit, neque quasi tempore placeat veritatis fugiat. Inventore consequatur deleniti veniam sunt!",
     "title": "Seafood",
@@ -28,8 +28,8 @@
   },
   {
     "id": "4",
-    "src": "https://drive.google.com/file/d/1dIl6pqreM3oM3cFh-ZTouM6BvDuzu0vH/view?usp=drive_link",
-    "src2x": "https://drive.google.com/file/d/10mL3Mq57IStZewJ4hvac3-HP8Qf5dnJa/view?usp=drive_link",
+    "src": "/src/assets/project4.jpg",
+    "src2x": "/src/assets/project4@2x.jpg",
     "alt": "project",
     "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Impedit, neque quasi tempore placeat veritatis fugiat. Inventore consequatur deleniti veniam sunt!",
     "title": "Prime",
@@ -37,8 +37,8 @@
   },
   {
     "id": "5",
-    "src": "https://drive.google.com/file/d/1-94hirtQsH1YiRXrspPIEmosT9_z4lPk/view?usp=drive_link",
-    "src2x": "https://drive.google.com/file/d/12ogUrtbQ36jBw29rQSsB0qcaUrym6ZIP/view?usp=drive_link",
+    "src": "/src/assets/project5.jpg",
+    "src2x": "/src/assets/project5@2x.jpg",
     "alt": "project",
     "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Impedit, neque quasi tempore placeat veritatis fugiat. Inventore consequatur deleniti veniam sunt!",
     "title": "Boxes",
@@ -46,8 +46,8 @@
   },
   {
     "id": "6",
-    "src": "https://drive.google.com/file/d/1n3m31QNNN0D15IjEYBxIFtQmufm8IZbk/view?usp=drive_link",
-    "src2x": "https://drive.google.com/file/d/1xebaes-F8fOj6BDAejOk42CGInNSbflg/view?usp=drive_link",
+    "src": "/src/assets/project6.jpg",
+    "src2x": "/src/assets/project6@2x.jpg",
     "alt": "project",
     "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Impedit, neque quasi tempore placeat veritatis fugiat. Inventore consequatur deleniti veniam sunt!",
     "title": "Inspiration has no Borders",
@@ -55,8 +55,8 @@
   },
   {
     "id": "7",
-    "src": "https://drive.google.com/file/d/1fbp6Kq8e-2fWGA5ZjGw-PYUlm6CoKL_9/view?usp=drive_link",
-    "src2x": "https://drive.google.com/file/d/1VQ2NahpV_epUDQ6peGOKaa4p-2YUxEAO/view?usp=drive_link",
+    "src": "/src/assets/project7.jpg",
+    "src2x": "/src/assets/project7@2x.jpg",
     "alt": "project",
     "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Impedit, neque quasi tempore placeat veritatis fugiat. Inventore consequatur deleniti veniam sunt!",
     "title": "Limited Edition",
@@ -64,8 +64,8 @@
   },
   {
     "id": "8",
-    "src": "https://drive.google.com/file/d/1ihOzQVr6YwFr0QHduNQNH9eaIp3ev0C9/view?usp=drive_link",
-    "src2x": "https://drive.google.com/file/d/1doC61te_bAq0jXwNrvEcxvhqQJNpSWCk/view?usp=drive_link",
+    "src": "/src/assets/project8.jpg",
+    "src2x": "/src/assets/project8@2x.jpg",
     "alt": "project",
     "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Impedit, neque quasi tempore placeat veritatis fugiat. Inventore consequatur deleniti veniam sunt!",
     "title": "Project LAB",
@@ -73,8 +73,8 @@
   },
   {
     "id": "9",
-    "src": "https://drive.google.com/file/d/1Ymv0ik2DnUFfz0nbrzso1a_nsABTKCLf/view?usp=drive_link",
-    "src2x": "https://drive.google.com/file/d/17sn4acYT5pkrmYEjc5lyRBuIinvv7VDk/view?usp=drive_link",
+    "src": "/src/assets/project9.jpg",
+    "src2x": "/src/assets/project9@2x.jpg",
     "alt": "project",
     "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Impedit, neque quasi tempore placeat veritatis fugiat. Inventore consequatur deleniti veniam sunt!",
     "title": "Growing Business",
